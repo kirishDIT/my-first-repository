@@ -1,2 +1,3 @@
 # my-first-repository
-first repository for testing
+this is not for testing now , this is my first readme file
+
